@@ -1,0 +1,7 @@
+{
+  "name": "sound-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
